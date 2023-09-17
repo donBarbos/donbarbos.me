@@ -9,11 +9,12 @@ export const metadata: Metadata = {
     default: "donBarbos",
     template: "%s | donBarbos",
   },
-  description: "Software engineer at upstash.com and founder of planetfall.io",
+  description:
+    "Hi, my name is Semyon, I'm building open source solutions and enjoy socially impactful projects.",
   openGraph: {
     title: "donBarbos",
     description:
-      "Software engineer at upstash.com and founder of planetfall.io",
+      "Hi, my name is Semyon, I'm building open source solutions and enjoy socially impactful projects.",
     url: "https://dontkillkenny.com",
     siteName: "dontkillkenny.com",
     images: [
@@ -40,7 +41,7 @@ export const metadata: Metadata = {
   twitter: {
     title: "donBarbos",
     description:
-      "Software engineer at upstash.com and founder of planetfall.io",
+      "Hi, my name is Semyon, I'm building open source solutions and enjoy socially impactful projects.",
     card: "summary_large_image",
   },
   icons: {
