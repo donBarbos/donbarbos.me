@@ -38,7 +38,9 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "donBarbos",
+    description:
+      "Software engineer at upstash.com and founder of planetfall.io",
     card: "summary_large_image",
   },
   icons: {
