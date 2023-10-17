@@ -37,7 +37,7 @@ export default function Home() {
         <h2 className="text-sm text-zinc-500 ">
           Hi, my name is Semyon, I'm building open source solutions
           <br />
-          and enjoy socially impactful projects.
+          and I love socially impactful projects.
         </h2>
       </div>
     </div>
