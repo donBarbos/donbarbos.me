@@ -64,7 +64,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={[inter.variable, calSans.variable].join(" ")}>
+    <html
+      lang="en"
+      className={[inter.variable, calSans.variable, "custom-selection"].join(
+        " "
+      )}
+    >
       <head>
         <Analytics />
       </head>
