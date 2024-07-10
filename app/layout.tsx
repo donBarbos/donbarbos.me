@@ -64,12 +64,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html
-      lang="en"
-      className={[inter.variable, calSans.variable, "custom-selection"].join(
-        " "
-      )}
-    >
+    <html lang="en" className={[inter.variable, calSans.variable].join(" ")}>
       <head></head>
       <body
         className={`bg-black ${

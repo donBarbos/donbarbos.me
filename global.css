@@ -6,11 +6,4 @@
   .text-edge-outline {
     -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
   }
-
-  .custom-selection {
-    ::selection {
-      background-color: rgb(255, 255, 255);
-      color: rgb(0, 0, 0);
-    }
-  }
 }
