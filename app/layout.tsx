@@ -15,11 +15,11 @@ export const metadata: Metadata = {
     title: "donBarbos",
     description:
       "Hi, my name is Semyon, I'm building open source solutions and I love socially impactful projects.",
-    url: "https://dontkillkenny.com",
-    siteName: "dontkillkenny.com",
+    url: "https://donbarbos.me",
+    siteName: "donbarbos.me",
     images: [
       {
-        url: "https://dontkillkenny.com/og.png",
+        url: "https://donbarbos.me/og.png",
         width: 1920,
         height: 1080,
       },
